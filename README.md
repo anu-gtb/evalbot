@@ -15,3 +15,8 @@
 -----
 
 `.github/workflows/deployment.yaml` -> deployment of docker image to DockerHub through CI/CD pipeline
+
+**Classification Report of Best Model**
+
+
+![class report](https://github.com/user-attachments/assets/4192e4db-2d9f-46b9-a907-0afb2d2345bb)
